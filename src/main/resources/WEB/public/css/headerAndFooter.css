@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+footer{
+	background-color: black;
+	color: white;
+}
+
+section#headSect {
+    background-color: darkslateblue;
+    color: white;
+}
+
+body {
+	height: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    flex-basis: 100%;
+    align-content: stretch;
+    justify-content: stretch;
+    justify-items: stretch;
+}
